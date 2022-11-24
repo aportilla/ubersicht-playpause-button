@@ -22,7 +22,7 @@ export const className = `
     top: auto;
     left: auto;
     right: 22px;
-    bottom: 50px;
+    bottom: 22px;
     user-select: none;
 
     .icon {
